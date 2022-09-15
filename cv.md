@@ -17,3 +17,17 @@ Implement the trim_and_repeat() function, which takes three parameters: the stri
 def trim_and_repeat(text, offset=0, repetitions=1):
     return text[offset:] * repetitions
 ``` 
+#### Cources:
+Introduction to C on the hexlet (completed)
+
+The basics of Pythin on the hexlet (completed)
+
+RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+#### Languages:
+Belarusian - Intermediate
+
+Russian - Native
+
+English - A2
+
+Polish - B2
