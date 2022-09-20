@@ -20,7 +20,7 @@ def trim_and_repeat(text, offset=0, repetitions=1):
 #### Cources:
 Introduction to C on the hexlet (completed)
 
-The basics of Python on the hexlet (completed)
+The basics of Pythoпn on the hexlet (completed)
 
 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 #### Languages:
